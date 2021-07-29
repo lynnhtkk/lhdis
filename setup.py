@@ -2,7 +2,7 @@ from setuptools import setup, version
 
 setup(
     name='lhdis',
-    version='0.1',
+    version='0.1.1',
     descriptions='Gaussian(Normal) and Binomial Distributions',
     packages=['lhdis'],
     author='Nyi Nyi Linn Htet',
